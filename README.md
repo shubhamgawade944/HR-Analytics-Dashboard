@@ -102,4 +102,4 @@ Provides leadership with consolidated and visual evidence of workforce trends fo
 
 
 6. Screenshots / Demos
-Show what the dashboard looks like. - Alt text Example:
+Show what the dashboard looks like. - Alt text Example:https://github.com/shubhamgawade944/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard%20preview.png
